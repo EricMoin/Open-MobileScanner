@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/title"
+        android:background="@color/color1"
+        android:gravity="center"
+        android:text="@string/user_info"
+        android:textSize="@dimen/head2"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/avatar"
+        android:src="@drawable/default_avatar"
+        android:scaleType="centerCrop"
+        app:strokeColor="@color/color1"
+        app:strokeWidth="1dp"
+        android:padding="1dp"
+        android:layout_width="@dimen/logo"
+        android:layout_height="@dimen/logo"
+        android:layout_marginTop="40dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:overScrollMode="never"
+        app:layout_constraintTop_toBottomOf="@id/avatar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

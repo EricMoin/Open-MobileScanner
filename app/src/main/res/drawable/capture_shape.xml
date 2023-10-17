@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:width="@dimen/capture_button_outside"
+        android:height="@dimen/capture_button_outside"
+        >
+        <shape
+            android:shape="oval"
+            >
+            <stroke android:color="@color/color1" android:width="3dp"/>
+        </shape>
+    </item>
+    <item
+        android:width="@dimen/capture_button_inside"
+        android:height="@dimen/capture_button_inside"
+        android:top="6dp"
+        android:start="6dp"
+        android:end="6dp"
+        android:bottom="6dp"
+        >
+        <shape
+            android:shape="oval"
+            >
+            <solid android:color="@color/white"/>
+        </shape>
+    </item>
+</layer-list>

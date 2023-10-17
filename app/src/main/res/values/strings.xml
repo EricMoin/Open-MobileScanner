@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">移动扫描王</string>
+    <string name="version">v1.0</string>
+
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="remember_password">记住密码</string>
+    <string name="auto_login">自动登录</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="register_account">注册账号</string>
+    <string name="name_hint">请输入昵称</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="email_hint">请输入邮箱(非必填)</string>
+    <string name="phone_hint">请输入手机号(非必填)</string>
+    <string name="code_hint">请输入验证码(非必填)</string>
+    <string name="require_code">获取</string>
+
+    <string name="search_hint">搜索</string>
+    <string name="choose_city">选择城市</string>
+    <string name="weather_hint">既然选择了远方，便只顾风雨兼程</string>
+
+    <string name="user_info">用户信息</string>
+    <string name="theme_color">主题颜色</string>
+    <string name="cloud_status">云同步</string>
+    <string name="software_version">软件版本</string>
+    <string name="check_update">检查更新</string>
+    
+    <string name="note">随笔</string>
+    <string name="title_hint">标题</string>
+    <string name="content_hint">内容</string>
+    
+    <string name="notice">系统通知</string>
+    <string name="settings">设置</string>
+
+    <string name="about">关于</string>
+    <string name="help">帮助</string>
+    <string name="exit">退出</string>
+    <string name="themes">主题</string>
+    <string name="update">更新</string>
+    <string name="personalized">个性化</string>
+    <string name="cloud">云同步</string>
+    <string name="cloud_used_space">云空间使用情况</string>
+    <string name="user_id">用户ID</string>
+
+    <string name="home">首页</string>
+    <string name="project">工程</string>
+    <string name="community">社区</string>
+    <string name="tools">工具箱</string>
+
+    <string name="recent_image">最近图片</string>
+    <string name="manage_project">工程管理</string>
+
+    <string name="icon_scan">智能扫描</string>
+    <string name="icon_pdf">PDF拼接</string>
+
+    <string name="all_function">全部功能</string>
+    <string name="share_hint">分享到</string>
+    <string name="pdf_cut_title">PDF拼接</string>
+    <string name="ocr_dialog_hint">查看识别结果</string>
+
+</resources>

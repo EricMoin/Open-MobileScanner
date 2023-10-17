@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color1">#3D7EFF</color>
+    <color name="color2">#558EFF</color>
+    <color name="color3">#8CB2FF</color>
+    <color name="text1">#333333</color>
+    <color name="text2">#777777</color>
+    <color name="text3">#aaaaaa</color>
+
+    <color name="bg_clear_day">#509AE1</color>
+    <color name="bg_clear_night">#4861C6</color>
+    <color name="bg_cloudy">#90C9DD</color>
+    <color name="bg_fog">#D8BFA9</color>
+    <color name="bg_partly_cloudy_day">#3E91C5</color>
+    <color name="bg_partly_cloudy_night">#1A79A9</color>
+    <color name="bg_wind">#A3B2ED</color>
+    <color name="bg_rain">#618FB1</color>
+    <color name="bg_snow">#93B6FA</color>
+</resources>

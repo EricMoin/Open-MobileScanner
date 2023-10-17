@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_head1">28sp</dimen>
+    <dimen name="large_number">60sp</dimen>
+    <dimen name="head1">22sp</dimen>
+    <dimen name="head2">20sp</dimen>
+    <dimen name="head3">18sp</dimen>
+    <dimen name="head4">16sp</dimen>
+    <dimen name="body1">14sp</dimen>
+    <dimen name="body2">12sp</dimen>
+    <dimen name="logo">100dp</dimen>
+    <dimen name="project_item_icon">60dp</dimen>
+    <dimen name="bar_avatar">40dp</dimen>
+    <dimen name="fab_size">60dp</dimen>
+    <dimen name="launch_progress_bar">50dp</dimen>
+    <dimen name="capture_button_outside">60dp</dimen>
+    <dimen name="capture_button_inside">48dp</dimen>
+    <dimen name="bar_icon">22dp</dimen>
+    <dimen name="icon2">25dp</dimen>
+    <dimen name="title">30sp</dimen>
+    <dimen name="edit_text_length">200dp</dimen>
+    <dimen name="weather_icon">100dp</dimen>
+    <dimen name="weather_text">60sp</dimen>
+</resources>
